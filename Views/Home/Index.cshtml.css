@@ -1,0 +1,26 @@
+.text-center {
+    position: relative; /* Change position to relative */
+    width: 100%;
+    height: fit-content;
+    background-image: url('/bulk-products-for-sale-wegmans-grocery-store-westwood-massachusetts-GNTCB0.jpg');
+    background-size: cover; /* Adjust the background size as needed */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    
+}
+
+.col-md-6 {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+ 
+.display-4{
+    padding-top: 350px;
+}
+
+.row{
+    padding-top: 350px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
